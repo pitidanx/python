@@ -1,2 +1,2 @@
 # phyton
-this codes of my phyton class
+this codes of my python class
